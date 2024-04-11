@@ -131,9 +131,6 @@
 </svelte:head>
 
 <style>
-	:global(*) {
-		font-family: 'Plus Jakarta Sans', sans-serif;
-	}
 	.title h3 {
 		font-size: 24px;
 	}
@@ -161,15 +158,6 @@
 		padding: 2px 8px;
 		font-size: 16px;
 		border-radius: 4px;
-	}
-	:global(body) {
-		font-family: 'Inter', sans-serif;
-		background: #f9fafd;
-		margin: 0px;
-		/* height: 100vh; */
-		display: flex;
-		justify-content: center;
-		margin-top: 64px;
 	}
 	.container {
 		background: #fff;

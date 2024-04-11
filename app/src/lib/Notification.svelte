@@ -92,7 +92,6 @@
 
 	.notification__content {
 		width: 100%;
-		margin-bottom: 8px;
 	}
 	.notification__content--inner {
 		width: 100%;
@@ -120,7 +119,7 @@
 		background-color: hsl(210, 60%, 98%);
 	}
 	.notification__time {
-		margin-top: 4px;
+		margin-top: 0px;
 		color: #939cad;
 	}
 
