@@ -164,11 +164,11 @@
 	}
 	:global(body) {
 		font-family: 'Inter', sans-serif;
-		background: #F9FAFD;
+		background: #f9fafd;
 		margin: 0px;
+		/* height: 100vh; */
 		display: flex;
 		justify-content: center;
-		align-items: center;
 		margin-top: 64px;
 	}
 	.container {
