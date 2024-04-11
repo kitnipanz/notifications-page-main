@@ -102,7 +102,7 @@
 <div class="container">
 	<div class="container__inner">
 		<div class="title">
-			<h3 style="margin-right: 32px; margin-top: 0px; margin-bottom: 0px;">Notifications</h3>
+			<h3 style="margin-right: 16px; margin-top: 0px; margin-bottom: 0px;">Notifications</h3>
 			<span class="counter">
 				{data.filter((item) => !item.read).length}
 			</span>
@@ -133,6 +133,9 @@
 <style>
 	:global(*) {
 		font-family: 'Plus Jakarta Sans', sans-serif;
+	}
+	.title h3 {
+		font-size: 24px;
 	}
 	.container__inner {
 		display: flex;

@@ -126,13 +126,13 @@
 
 	.name {
 		cursor: pointer;
-		margin-right: 16px;
+		margin-right: 8px;
 		font-weight: 600;
 		color: #1c202b;
 	}
 	.action {
 		color: #5e6778;
-		margin-right: 16px;
+		margin-right: 8px;
 	}
 	.name:hover {
 		color: #0a327b;
