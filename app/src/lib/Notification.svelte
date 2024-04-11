@@ -87,6 +87,7 @@
 		align-items: start;
 		border-radius: 8px;
 		padding: 18px 20px;
+		margin-bottom: 8px;
 	}
 
 	.notification__content {
@@ -126,6 +127,7 @@
 	.name {
 		cursor: pointer;
 		margin-right: 16px;
+		font-weight: 600;
 		color: #1c202b;
 	}
 	.action {
@@ -155,6 +157,7 @@
 	}
 	:global(.subject) {
 		margin-right: 16px;
+		font-weight: 600;
 		cursor: pointer;
 		color: #5E6778;
 	}

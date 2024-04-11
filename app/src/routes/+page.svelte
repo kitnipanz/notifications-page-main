@@ -161,7 +161,7 @@
 	}
 	:global(body) {
 		font-family: 'Inter', sans-serif;
-		background: hsl(210, 60%, 98%);
+		background: #F9FAFD;
 		margin: 0px;
 		display: flex;
 		justify-content: center;
